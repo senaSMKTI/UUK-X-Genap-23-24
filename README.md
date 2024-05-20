@@ -14,7 +14,6 @@ Buat sebuah program yang menghitung nilai sisa bagi dari nomor induk siswa (NISN
 Contoh Hasil Program:
 
 ![image](https://github.com/senaSMKTI/UUK-X-Genap-23-24/assets/156995368/308e1fbf-19a1-4db3-aec9-8bad2729f7e0)
-![image](https://github.com/senaSMKTI/UUK-X-Genap-23-24/assets/156995368/2c0c2933-5167-489d-9b91-82d1727feed7)
 
 
 # Soal 3 (50%)
